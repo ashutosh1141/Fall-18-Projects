@@ -1,6 +1,5 @@
 Ashutosh Agrawala axa180037
-Arjit Yadav axy170007
-Chakriramoj sandireddy cxs180003
+
 
 
 steps to compile the code:
